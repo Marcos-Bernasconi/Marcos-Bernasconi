@@ -1,8 +1,8 @@
 # Hi, I'm Marcos Bernasconi
 
-Determined web developer with a passion for creative solutions.
-Experienced in building multi-platform websites using Responsive Web Design.
-Proficient in HTML, CSS, and JavaScript.
+- Determined web developer with a passion for creative solutions.
+- Experienced in building multi-platform websites using Responsive Web Design.
+- Knowledgeable in user interface, testing, and debugging processes.
 
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
