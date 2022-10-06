@@ -1,4 +1,4 @@
-### Hi, I'm Marcos Bernasconi
+# Hi, I'm Marcos Bernasconi
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=blue)
