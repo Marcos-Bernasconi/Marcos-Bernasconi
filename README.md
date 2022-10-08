@@ -10,7 +10,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React.js](https://img.shields.io/badge/-React.js-000000?style=flat&logo=react)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 <br/>
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
