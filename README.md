@@ -2,7 +2,7 @@
 
 - Determined web developer with a passion for creative solutions.
 - Experienced in building multi-platform websites using Responsive Web Design.
-- Knowledgeable in user interface, testing, and debugging processes
+- Knowledgeable in user interface, testing, and debugging processes.
 - Dedicated to learning additional technologies.
 
 ## Languages and Tools
