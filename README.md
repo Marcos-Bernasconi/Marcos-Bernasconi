@@ -12,7 +12,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-000000?style=flat&logo=react)
 <br/>
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
+![Github](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 
 ## 📫 Contact Me
 xb3rna@gmail.com
