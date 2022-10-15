@@ -1,4 +1,4 @@
-# Hi, I'm Marcos Bernascon
+# Hi, I'm Marcos Bernasconi
 
 - Determined web developer with a passion for creative solutions.
 - Experienced in building multi-platform websites using Responsive Web Design.
