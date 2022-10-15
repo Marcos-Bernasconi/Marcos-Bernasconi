@@ -3,7 +3,7 @@
 - Determined web developer with a passion for creative solutions.
 - Experienced in building multi-platform websites using Responsive Web Design.
 - Knowledgeable in user interface, testing, and debugging processes.
-- Dedicated to learning additional technologies
+- Dedicated to learning additional technologies.
 
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
