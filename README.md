@@ -5,7 +5,7 @@
 - Knowledgeable in user interface, testing, and debugging processes.
 - Dedicated to learning additional technologies.
 
-## Languages and Tools
+## Languages and Tool
 ![HTML5](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
