@@ -14,5 +14,5 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 
-## 📫 Contact M
+## 📫 Contact Me
 xb3rna@gmail.com
